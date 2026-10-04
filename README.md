@@ -1,6 +1,16 @@
 # Proyecto App Móviles
 
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)](https://www.android.com/)
+[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/)
+
 Aplicación android nativa desarrollada como proyecto de la asignatura de Dispositivos Móviles.
+
+<!--
+## Capturas
+Coloca las imágenes en `docs/screenshots/` y descomenta:
+![Login](docs/screenshots/login.png)
+-->
 
 ## 📱 Descripción
 
